@@ -1,0 +1,6 @@
+name=int(input("enter no of product name="))
+quantity=int(input("enter quantity="))
+price=int(input("enter price="))
+total=quantity*price
+print("quantity=",quantity)
+print("price=",price)
